@@ -1,4 +1,4 @@
-# WGU-C950
+# Package Delivery Algorithm
 Package Delivery Problem.  A version of the traveling salesman problem.
 
 Jason Philpy
